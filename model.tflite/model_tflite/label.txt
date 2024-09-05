@@ -1,0 +1,7 @@
+Colorless
+Fighting
+Fire
+Grass
+Lightning
+Psychic
+Water
